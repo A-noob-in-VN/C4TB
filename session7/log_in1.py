@@ -1,0 +1,6 @@
+username = input("Your username?")
+print (username)
+email = input("Your email address?")
+print (email)
+password = input("Your password?")
+print (password)
