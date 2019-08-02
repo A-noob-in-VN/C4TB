@@ -9,6 +9,7 @@ while True:
     if choice == 0:
         Us_Fa = input("Please enter your favorite:")
         items.append(Us_Fa)
+        print (Us_Fa)
     elif choice == 1:
         bl_len=len(items)
         if bl_len == 0:
